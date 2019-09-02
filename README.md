@@ -1,0 +1,3 @@
+# Room Renter
+
+Room Rental System is a mobile application that helps the house owner to keep record of their room details and the tenants renting the room. People need to invest lot of time and effort to find a single room. Room Rental System helps to solve these problem by connecting the house owner and tenant. The payment system enforced, greatly facilitates the tenant who can book their room or flat according to their requirement from anywhere within the country. This application has been developed using android studio as IDE, java as main programming language, xml as defining layout, android built in layout editor to design layout and backend part using the firebase.
