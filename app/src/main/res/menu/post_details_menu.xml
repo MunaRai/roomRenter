@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/complain_action"
+        android:title="@string/add_complain" />
+    <item
+        android:id="@+id/edit_post_action"
+        android:title="@string/dialog_edit" />
+
+    <item
+        android:id="@+id/delete_post_action"
+        android:title="@string/dialog_delete" />
+</menu>

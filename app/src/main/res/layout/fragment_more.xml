@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorsignupbackground">
+
+    <ImageButton
+
+        android:id="@+id/setting_button"
+        android:layout_width="148dp"
+        android:layout_height="51dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="30dp"
+        android:background="@color/colorsignupbackground"
+        app:srcCompat="@drawable/setting" />
+
+    <TextView
+        android:id="@+id/payment"
+        android:layout_width="153dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/setting_button"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="20dp"
+        android:text="Payment"
+        android:textColor="@color/colorblack"
+        android:textSize="20dp" />
+    <TextView
+        android:id="@+id/user_profile"
+        android:layout_width="169dp"
+        android:layout_height="45dp"
+        android:paddingLeft="20dp"
+        android:layout_below="@+id/payment"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="10dp"
+        android:text="Profile-Details "
+        android:textColor="@color/colorblack"
+        android:textSize="20dp"
+        />
+</RelativeLayout>

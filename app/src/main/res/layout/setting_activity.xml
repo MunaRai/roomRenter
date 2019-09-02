@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="wrap_content">
+
+    <TextView
+        android:id="@+id/personal_information"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/notification"
+        android:text="Personal Information"
+        android:textColor="@color/colorblack"
+        android:layout_marginLeft="15dp"
+        android:textSize="15dp"
+        tools:ignore="UnknownId" />
+
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/notification"
+        android:layout_width="342dp"
+        android:layout_height="71dp"
+        android:layout_marginLeft="15dp"
+
+        android:layout_marginTop="20dp"
+        android:text="Notification" />
+    <TextView
+        android:id="@+id/about"
+        android:layout_width="70dp"
+        android:layout_height="30dp"
+        android:text="About"
+        android:textSize="15dp"
+        android:textColor="@color/colorblack"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="19dp"
+        android:layout_below="@+id/personal_information"/>
+    <TextView
+        android:id="@+id/help"
+        android:layout_width="70dp"
+        android:layout_height="30dp"
+        android:text="Help"
+        android:textSize="15dp"
+        android:textColor="@color/colorblack"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="19dp"
+        android:layout_below="@+id/about"/>
+    <TextView
+        android:id="@+id/log_out"
+        android:layout_width="169dp"
+        android:layout_height="45dp"
+        android:layout_below="@id/help"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="19dp"
+        android:text="LOG OUT"
+
+        android:textColor="@color/colorblack"
+        android:textSize="15dp" />
+
+
+
+
+</RelativeLayout>

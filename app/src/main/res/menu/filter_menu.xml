@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:checkable="false"
+        android:enabled="false"
+        android:title="Set filters" />
+    <item
+        android:id="@+id/action_price_high"
+        android:title="Highest to Lowest Price" />
+    <item
+        android:id="@+id/action_price_low"
+        android:title="Lowest to Highest Price" />
+
+    <item
+        android:id="@+id/action_price_location"
+        android:title="Location" />
+    <item
+        android:id="@+id/action_popular"
+        android:title="Popular" />
+</menu>

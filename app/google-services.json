@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141077307539",
+    "firebase_url": "https://kathfordroomfinder.firebaseio.com",
+    "project_id": "kathfordroomfinder",
+    "storage_bucket": "kathfordroomfinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141077307539:android:e08eb7936d97e935",
+        "android_client_info": {
+          "package_name": "com.alisha.roomfinderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141077307539-30pa569o865n7te9gmj5frk3savm0upl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alisha.roomfinderapp",
+            "certificate_hash": "72323e6918020b14b21942aa89c49b818ac69950"
+          }
+        },
+        {
+          "client_id": "141077307539-1l6v2v1ub8flrq82ueb1ami9uquv24es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBktgN_dHlteGa5MPt2dxbumNBqtBuvQQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141077307539-1l6v2v1ub8flrq82ueb1ami9uquv24es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

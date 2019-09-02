@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Room Finder</string>
+
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="your_full_name">Your full name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="avatar_link">avatar_img_link</string>
+    <string name="password_fill">Enter your password</string>
+    <string name="fill_email">Enter your email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="no_account_yet_create_one">Register your accoun t</string>
+    <string name="or">OR</string>
+    <string name="log_in_with_google">Log In With Google</string>
+    <string name="log_in_with_facebook">Log In With Facebook</string>
+    <string name="enter_full_name_hint">Enter full name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tab_1">Home</string>
+    <string name="tab_2">Rent</string>
+    <string name="tab_3">Wishlist</string>
+    <string name="sample_title">This is atitle</string>
+    <string name="calling_hotel_detail">hotel_detail</string>
+    <string name="error_general">Error please try agaign</string>
+    <string name="empty_field">Field cannot be empty</string>
+    <string name="calling_category">calling category</string>
+    <string name="calling_room_detail">Calling Room</string>
+    <string name="calling_others_detail">calling others</string>
+    <string name="app_name_main">Room Finder</string>
+    <string name="add_complain">Report</string>
+    <string name="dialog_edit">Edit</string>
+    <string name="dialog_delete">Delete</string>
+    <string name="send">Send</string>
+    <string name="calling_room_complaint">room_complaint</string>
+    <string name="calling_room_edit">room_edit_intent</string>
+
+    <string-array name="choice_arrays">
+        <item>per month</item>
+        <item>per day</item>
+
+    </string-array>
+
+    <string-array name="districts_array">
+        <item>Kathmandu</item>
+        <item>Lalitpur</item>
+        <item>Bhaktapur</item>
+        <item>Others</item>
+    </string-array>
+
+
+    <string-array name="room_type_array">
+        <item>Home flat room</item>
+        <item>Hotel room</item>
+
+    </string-array>
+
+    <string-array name="pay_type_array">
+        <item>Hand cash</item>
+        <item>Online Payment</item>
+        <item>Both</item>
+    </string-array>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="field_messaging_token">messaging_token</string>
+    <string name="group_name">Group 1</string>
+    <string name="notifications_admin_channel_name">Global channel</string>
+    <string name="notifications_admin_channel_description">Notifications sent from the app admin</string>
+    <string name="data_type">data_type</string>
+    <string name="direct_message">direct_message</string>
+    <string name="data_title">title</string>
+    <string name="data_message">message</string>
+    <string name="data_message_id">message_id</string>
+    <string name="msg_token_fmt">0</string>
+    <string name="data_post_id">post_id</string>
+    <string name="data_user_id">user_id</string>
+    <string name="data_date_created">date_created</string>
+    <string name="data_body">body</string>
+    <string name="calling_notification">calling_notification</string>
+    <string name="notification_details">notification</string>
+    <string name="sample_services">Attached Bathroom?: Y/N   No.of beds: 0   Double sized bed?: Y//N</string>
+    <string name="sample_services2">Attached Bathroom?: Y   No.of beds: 4   Double sized bed?: Y</string>
+    <string name="data_post_name">post_name</string>
+    <string name="roomNotifications">pushNotifications</string>
+</resources>
